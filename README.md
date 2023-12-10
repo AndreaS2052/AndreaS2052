@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreaS2052
+- 👋 Hi, I’m @AndreaS
 - 🌱 I’m currently learning Computer Science at Alma Mater Studiorum University of Bologna
 
 <!---
